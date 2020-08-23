@@ -1,3 +1,3 @@
 # ScoopMD
-A free note taking markdown editor!!
+A Cloud free note taking markdown editor!!
 
